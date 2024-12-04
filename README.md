@@ -1,2 +1,2 @@
 # Website
-yes
+https://erik-bomboclath.github.io/Website/
